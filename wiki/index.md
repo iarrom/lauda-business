@@ -28,7 +28,11 @@ status: active
 
 ## Segments
 
-*Пока нет страниц. План: провести первую серию AJTBD-интервью с потенциальными B2B-клиентами Lauda и заполнить топ-3 сегмента.*
+- [[mobile-games-apps-ua-lead]] — Performance/UA Lead в mobile games/apps US/UK, кандидат №1 на первый GTM *(updated 2026-05-16, confidence: low)*
+- [[amazon-walmart-brand-owner]] — Brand owner Amazon-first DTC US, кандидат №1 параллельно *(updated 2026-05-16, confidence: low)*
+- [[d2c-subscription-shopify]] — D2C на Shopify US/EU/UK, кандидат на Y2 *(updated 2026-05-16, confidence: low)*
+- [[crypto-fintech-growth-head]] — Crypto/Web3 Growth Head, secondary high-margin *(updated 2026-05-16, confidence: low)*
+- [[b2b-saas-mid-market-vp-marketing]] — B2B SaaS VP Marketing US, долгий play Y2–Y3 *(updated 2026-05-16, confidence: low)*
 
 ## Competitors
 
@@ -68,7 +72,7 @@ status: active
 
 ## Comparisons
 
-*Пока нет страниц.*
+- [[top-5-segments-b2b]] — Сводный документ топ-5 B2B-сегментов с приоритезацией *(updated 2026-05-16)*
 
 ---
 
