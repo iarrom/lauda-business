@@ -1,0 +1,48 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Obsidian
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/graph.json
+
+# Локальные секреты — НИКОГДА не коммитим
+.env
+.env.local
+*.secret
+secrets/
+credentials/
+api-keys.json
+
+# Большие бинарники: храним отдельно, в репо только md
+raw/assets/*.mp4
+raw/assets/*.mov
+raw/assets/*.zip
+raw/meetings/*.mp3
+raw/meetings/*.wav
+raw/meetings/*.m4a
+
+# Временные файлы LLM-агентов
+.claude/
+.cursor/
+.aider*
+.tmp/
+*.log
+
+# Python (если будут вспомогательные скрипты)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node (если qmd или другие инструменты)
+node_modules/
+package-lock.json
